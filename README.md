@@ -41,7 +41,7 @@ Para poner en funcionamiento el proyecto, siga estos sencillos pasos de ejemplo.
 
 👤 **Gabrielle Jesus Brizuela Guacache**
 
-- GitHub: [@aristides1000](https://github.com/GabrielleMrRobot)
+- GitHub: [@GabrielleMrRobot](https://github.com/GabrielleMrRobot)
 
 
 ## Espero que le haya gustado
