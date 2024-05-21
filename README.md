@@ -17,18 +17,15 @@ Descripción adicional sobre el proyecto y sus características.
 - FrameWorks
 - Tecnologías utilizadas
 
-## Live Demo o deploy del proyecto en algun hosting
+## Live Demo o deploy del proyecto en algun hosting de preferencia
 
 [Live Demo Link](https://livedemo.com)
 
 
-## Para poner en funcionamiento el proyecto, siga estos sencillos pasos de ejemplo.
+## Para ingresar al proyecto
+Para poner en funcionamiento el proyecto, siga estos sencillos pasos de ejemplo.
 
 ### Requisitos previos
-
-### Configuración
-
-### Instalar
 
 ### Uso
 
