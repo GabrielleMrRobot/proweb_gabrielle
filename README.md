@@ -22,7 +22,7 @@ Descripción adicional sobre el proyecto y sus características.
 [Live Demo Link](https://livedemo.com)
 
 
-Para poner en funcionamiento el proyecto, siga estos sencillos pasos de ejemplo.
+## Para poner en funcionamiento el proyecto, siga estos sencillos pasos de ejemplo.
 
 ### Requisitos previos
 
