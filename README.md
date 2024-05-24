@@ -23,7 +23,7 @@ Descripción adicional sobre el proyecto y sus características.
 
 
 ## Para ingresar al proyecto
-Para poner en funcionamiento el proyecto, siga estos sencillos pasos de ejemplo.
+Para poner en funcionamiento el proyecto, siga estos sencillos pasos de ejemplo:
 
 ### Requisitos previos
 
