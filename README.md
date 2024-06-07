@@ -30,7 +30,7 @@ Para la creacion de las ramas o branches y del repositorio en general se realiza
 3. Crear las ramas main, staging y develop
 
    Para Clonar el repositorio se uso el siguiente comando en git bash:
-   git clone https://github.com/yourusername/proweb_gabrielle.git
+   git clone https://github.com/GabrielleMrRobot/proweb_gabrielle.git
 
    Crear y empujar las ramas main, staging y develop:
 
