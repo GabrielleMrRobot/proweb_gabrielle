@@ -7,7 +7,7 @@ Proyecto de pagina web para la materia programacion Web
 
 > Esta pagina web sirve como recetario y tambien como menu a un restaurante italiano de mi propia creacion para la evaluacion 2 de programacion web solo con estructura HTML
 
-![screenshot](./app_screenshot.png)
+![screenshot](./app_screenshot2.png)
 
 Descripción adicional sobre el proyecto y sus características:
 
