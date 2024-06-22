@@ -7,8 +7,8 @@ Proyecto de pagina web para la materia programacion Web
 
 > Esta pagina web sirve como recetario y tambien como menu a un restaurante italiano de mi propia creacion modificado con bootstrap para ofrecer dinamismo para la evaluacion 3 de programacion web.
 
-![screenshot](./app_screenshot3.png)
-![screenshot](./app_screenshot4.png)
+![screenshot](./app_screenshot3.jpg)
+![screenshot](./app_screenshot4.jpg)
 
 Descripción adicional sobre el proyecto y sus características:
 
