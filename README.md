@@ -1,5 +1,10 @@
 ![](https://img.shields.io/badge/UMC-blue)
 
+## Live Demo o deploy del proyecto en algun hosting de preferencia
+
+[Live Demo Link](https://gabriellemrrobot.github.io/proweb_gabrielle/)
+
+
 # proweb_gabrielle
 Proyecto de pagina web para la materia programacion Web
 
@@ -59,10 +64,6 @@ Descripción adicional sobre el proyecto y sus características.
 - Lenguajes principales
 - FrameWorks
 - Tecnologías utilizadas
-
-## Live Demo o deploy del proyecto en algun hosting de preferencia
-
-[Live Demo Link](https://gabriellemrrobot.github.io/proweb_gabrielle/)
 
 
 ## Para ingresar al proyecto
