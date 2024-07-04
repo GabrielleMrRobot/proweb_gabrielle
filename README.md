@@ -62,7 +62,7 @@ Descripción adicional sobre el proyecto y sus características.
 
 ## Live Demo o deploy del proyecto en algun hosting de preferencia
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://gabriellemrrobot.github.io/proweb_gabrielle/)
 
 
 ## Para ingresar al proyecto
